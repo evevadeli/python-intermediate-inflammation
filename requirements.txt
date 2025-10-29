@@ -62,6 +62,8 @@ pytest==8.4.2
     # via python-intermediate-inflammation
 python-dateutil==2.9.0.post0
     # via matplotlib
+ruff==0.14.2
+    # via python-intermediate-inflammation
 six==1.17.0
     # via python-dateutil
 tomli==2.3.0 ; python_full_version < '3.11'
